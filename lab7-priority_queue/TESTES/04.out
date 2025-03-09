@@ -1,0 +1,19 @@
+Fila vazia
+Atendimento: William
+Fila vazia
+1. Paciente: Harper, Gravidade: 1, Chegada: 10:30
+2. Paciente: Emily, Gravidade: 2, Chegada: 05:30
+3. Paciente: James, Gravidade: 5, Chegada: 10:03
+Atendimento: James
+1. Paciente: Harper, Gravidade: 1, Chegada: 10:30
+2. Paciente: Emily, Gravidade: 2, Chegada: 05:30
+3. Paciente: Mia, Gravidade: 2, Chegada: 11:00
+4. Paciente: Alexander, Gravidade: 3, Chegada: 11:33
+Atendimento: Harper
+Fila cheia
+1. Paciente: Evelyn, Gravidade: 1, Chegada: 12:00
+2. Paciente: Emily, Gravidade: 2, Chegada: 05:30
+3. Paciente: Mia, Gravidade: 2, Chegada: 11:00
+4. Paciente: Henry, Gravidade: 3, Chegada: 12:30
+5. Paciente: Alexander, Gravidade: 4, Chegada: 11:33
+6. Paciente: Amelia, Gravidade: 4, Chegada: 13:19

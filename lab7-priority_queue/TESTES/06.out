@@ -1,0 +1,32 @@
+Atendimento: Benjamin
+Fila vazia
+1. Paciente: Olivia, Gravidade: 1, Chegada: 10:30
+2. Paciente: Emma, Gravidade: 2, Chegada: 09:30
+3. Paciente: Liam, Gravidade: 4, Chegada: 10:00
+Atendimento: Emma
+1. Paciente: William, Gravidade: 1, Chegada: 11:30
+2. Paciente: Ava, Gravidade: 3, Chegada: 11:00
+3. Paciente: Liam, Gravidade: 4, Chegada: 10:00
+4. Paciente: Olivia, Gravidade: 4, Chegada: 10:30
+Atendimento: William
+1. Paciente: Elijah, Gravidade: 1, Chegada: 12:30
+2. Paciente: Mia, Gravidade: 2, Chegada: 13:30
+3. Paciente: Ava, Gravidade: 3, Chegada: 11:00
+4. Paciente: Harper, Gravidade: 3, Chegada: 13:00
+5. Paciente: Liam, Gravidade: 4, Chegada: 10:00
+6. Paciente: Olivia, Gravidade: 4, Chegada: 10:30
+7. Paciente: Sophia, Gravidade: 4, Chegada: 12:00
+Atendimento: Elijah
+1. Paciente: James, Gravidade: 1, Chegada: 14:00
+2. Paciente: Charlotte, Gravidade: 2, Chegada: 14:30
+3. Paciente: Ava, Gravidade: 3, Chegada: 11:00
+4. Paciente: Harper, Gravidade: 3, Chegada: 13:00
+5. Paciente: Liam, Gravidade: 4, Chegada: 10:00
+6. Paciente: Olivia, Gravidade: 4, Chegada: 10:30
+7. Paciente: Sophia, Gravidade: 4, Chegada: 12:00
+8. Paciente: Noah, Gravidade: 4, Chegada: 15:00
+9. Paciente: Mia, Gravidade: 5, Chegada: 13:30
+10. Paciente: Amelia, Gravidade: 5, Chegada: 15:30
+Fila cheia
+Fila cheia
+Atendimento: James

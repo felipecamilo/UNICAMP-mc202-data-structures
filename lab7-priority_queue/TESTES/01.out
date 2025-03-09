@@ -1,0 +1,11 @@
+Fila vazia
+Fila cheia
+1. Paciente: Maria, Gravidade: 1, Chegada: 10:15
+2. Paciente: Ana, Gravidade: 2, Chegada: 10:30
+3. Paciente: Joao, Gravidade: 3, Chegada: 10:00
+4. Paciente: Pedro, Gravidade: 3, Chegada: 10:45
+1. Paciente: Maria, Gravidade: 1, Chegada: 10:15
+2. Paciente: Pedro, Gravidade: 1, Chegada: 10:45
+3. Paciente: Ana, Gravidade: 2, Chegada: 10:30
+4. Paciente: Joao, Gravidade: 3, Chegada: 10:00
+Atendimento: Maria

@@ -1,0 +1,103 @@
+Fila vazia
+Atendimento: Liam
+1. Paciente: Olivia, Gravidade: 1, Chegada: 10:30
+2. Paciente: Emma, Gravidade: 3, Chegada: 09:30
+3. Paciente: Noah, Gravidade: 5, Chegada: 10:00
+Atendimento: Emma
+1. Paciente: Ava, Gravidade: 2, Chegada: 11:00
+2. Paciente: William, Gravidade: 3, Chegada: 11:30
+3. Paciente: Olivia, Gravidade: 4, Chegada: 10:30
+4. Paciente: Noah, Gravidade: 5, Chegada: 10:00
+Atendimento: William
+1. Paciente: Harper, Gravidade: 1, Chegada: 13:00
+2. Paciente: Ava, Gravidade: 2, Chegada: 11:00
+3. Paciente: Elijah, Gravidade: 2, Chegada: 12:30
+4. Paciente: Mia, Gravidade: 3, Chegada: 13:30
+5. Paciente: Olivia, Gravidade: 4, Chegada: 10:30
+6. Paciente: Noah, Gravidade: 5, Chegada: 10:00
+7. Paciente: Sophia, Gravidade: 5, Chegada: 12:00
+Atendimento: Harper
+1. Paciente: Charlotte, Gravidade: 1, Chegada: 14:30
+2. Paciente: Ava, Gravidade: 2, Chegada: 11:00
+3. Paciente: Elijah, Gravidade: 2, Chegada: 12:30
+4. Paciente: James, Gravidade: 2, Chegada: 14:00
+5. Paciente: Benjamin, Gravidade: 3, Chegada: 15:00
+6. Paciente: Olivia, Gravidade: 4, Chegada: 10:30
+7. Paciente: Noah, Gravidade: 5, Chegada: 10:00
+8. Paciente: Sophia, Gravidade: 5, Chegada: 12:00
+9. Paciente: Mia, Gravidade: 5, Chegada: 13:30
+10. Paciente: Amelia, Gravidade: 5, Chegada: 15:30
+Atendimento: Charlotte
+1. Paciente: Evelyn, Gravidade: 1, Chegada: 16:00
+2. Paciente: Ava, Gravidade: 2, Chegada: 11:00
+3. Paciente: Elijah, Gravidade: 2, Chegada: 12:30
+4. Paciente: James, Gravidade: 2, Chegada: 14:00
+5. Paciente: Amelia, Gravidade: 2, Chegada: 15:30
+6. Paciente: Grace, Gravidade: 2, Chegada: 17:30
+7. Paciente: Benjamin, Gravidade: 3, Chegada: 15:00
+8. Paciente: Samuel, Gravidade: 3, Chegada: 17:00
+9. Paciente: Olivia, Gravidade: 4, Chegada: 10:30
+10. Paciente: Noah, Gravidade: 5, Chegada: 10:00
+11. Paciente: Sophia, Gravidade: 5, Chegada: 12:00
+12. Paciente: Mia, Gravidade: 5, Chegada: 13:30
+13. Paciente: Henry, Gravidade: 5, Chegada: 16:30
+Atendimento: Evelyn
+1. Paciente: Grace, Gravidade: 1, Chegada: 17:30
+2. Paciente: Aiden, Gravidade: 1, Chegada: 19:00
+3. Paciente: Ava, Gravidade: 2, Chegada: 11:00
+4. Paciente: Elijah, Gravidade: 2, Chegada: 12:30
+5. Paciente: James, Gravidade: 2, Chegada: 14:00
+6. Paciente: Amelia, Gravidade: 2, Chegada: 15:30
+7. Paciente: Chloe, Gravidade: 2, Chegada: 19:30
+8. Paciente: Benjamin, Gravidade: 3, Chegada: 15:00
+9. Paciente: Samuel, Gravidade: 3, Chegada: 17:00
+10. Paciente: Lily, Gravidade: 3, Chegada: 18:30
+11. Paciente: Olivia, Gravidade: 4, Chegada: 10:30
+12. Paciente: Jackson, Gravidade: 4, Chegada: 18:00
+13. Paciente: Noah, Gravidade: 5, Chegada: 10:00
+14. Paciente: Sophia, Gravidade: 5, Chegada: 12:00
+15. Paciente: Mia, Gravidade: 5, Chegada: 13:30
+16. Paciente: Henry, Gravidade: 5, Chegada: 16:30
+Atendimento: Grace
+1. Paciente: Aiden, Gravidade: 1, Chegada: 19:00
+2. Paciente: Ava, Gravidade: 2, Chegada: 11:00
+3. Paciente: Elijah, Gravidade: 2, Chegada: 12:30
+4. Paciente: James, Gravidade: 2, Chegada: 14:00
+5. Paciente: Amelia, Gravidade: 2, Chegada: 15:30
+6. Paciente: Elijah, Gravidade: 2, Chegada: 21:00
+7. Paciente: Benjamin, Gravidade: 3, Chegada: 15:00
+8. Paciente: Samuel, Gravidade: 3, Chegada: 17:00
+9. Paciente: Lily, Gravidade: 3, Chegada: 18:30
+10. Paciente: Zoey, Gravidade: 3, Chegada: 20:30
+11. Paciente: Olivia, Gravidade: 4, Chegada: 10:30
+12. Paciente: Jackson, Gravidade: 4, Chegada: 18:00
+13. Paciente: Chloe, Gravidade: 4, Chegada: 19:30
+14. Paciente: Harper, Gravidade: 4, Chegada: 21:30
+15. Paciente: Noah, Gravidade: 5, Chegada: 10:00
+16. Paciente: Sophia, Gravidade: 5, Chegada: 12:00
+17. Paciente: Mia, Gravidade: 5, Chegada: 13:30
+18. Paciente: Henry, Gravidade: 5, Chegada: 16:30
+19. Paciente: Logan, Gravidade: 5, Chegada: 20:00
+Atendimento: Aiden
+1. Paciente: Mia, Gravidade: 1, Chegada: 22:00
+2. Paciente: Ava, Gravidade: 2, Chegada: 11:00
+3. Paciente: Elijah, Gravidade: 2, Chegada: 12:30
+4. Paciente: James, Gravidade: 2, Chegada: 14:00
+5. Paciente: Amelia, Gravidade: 2, Chegada: 15:30
+6. Paciente: Elijah, Gravidade: 2, Chegada: 21:00
+7. Paciente: Lucas, Gravidade: 2, Chegada: 23:30
+8. Paciente: Benjamin, Gravidade: 3, Chegada: 15:00
+9. Paciente: Samuel, Gravidade: 3, Chegada: 17:00
+10. Paciente: Lily, Gravidade: 3, Chegada: 18:30
+11. Paciente: Zoey, Gravidade: 3, Chegada: 20:30
+12. Paciente: Olivia, Gravidade: 4, Chegada: 10:30
+13. Paciente: Jackson, Gravidade: 4, Chegada: 18:00
+14. Paciente: Chloe, Gravidade: 4, Chegada: 19:30
+15. Paciente: Mason, Gravidade: 4, Chegada: 22:30
+16. Paciente: Noah, Gravidade: 5, Chegada: 10:00
+17. Paciente: Sophia, Gravidade: 5, Chegada: 12:00
+18. Paciente: Mia, Gravidade: 5, Chegada: 13:30
+19. Paciente: Henry, Gravidade: 5, Chegada: 16:30
+20. Paciente: Logan, Gravidade: 5, Chegada: 20:00
+21. Paciente: Harper, Gravidade: 5, Chegada: 21:30
+22. Paciente: Emily, Gravidade: 5, Chegada: 23:00
